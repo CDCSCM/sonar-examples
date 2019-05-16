@@ -10,3 +10,5 @@ The directory /projects contains sample projects for:
 The directory /plugins contains the most frequent kinds of custom plugins:
  * Extensions of rule engines like Java, JavaScript and PHP
  * Define a new metric, compute measures and display them in web app
+ 
+ 
